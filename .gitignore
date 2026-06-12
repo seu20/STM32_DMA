@@ -1,0 +1,10 @@
+# STM32CubeIDE / Eclipse build artifacts
+Debug/
+Release/
+*.o
+*.su
+*.d
+*.elf
+*.map
+*.hex
+*.bin
